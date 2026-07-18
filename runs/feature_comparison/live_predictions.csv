@@ -1,0 +1,5 @@
+variant,prediction,actual,correct,top_five
+jaw_axis,stop,start,False,"[[""stop"", 18.225047501922134], [""localhost"", 7.273949417135486], [""fast"", 3.495599323282081], [""please"", 2.1488143555933275], [""unknown"", -1.7512507568721485]]"
+ref_axis_diagnostic,stop,start,False,"[[""stop"", 21.844074378448877], [""fast"", 20.223669135884045], [""unknown"", 10.10540170034927], [""app"", -0.43586748059503866], [""approve"", -1.5734318502100784]]"
+jaw_ref_axis,stop,start,False,"[[""stop"", 9.379211299111189], [""fast"", 6.910909443369196], [""please"", 0.7312418081090033], [""app"", 0.6419066097873564], [""unknown"", 0.5839978401007115]]"
+rotation_resistant,stop,start,False,"[[""stop"", 8.615094504425644], [""fast"", 8.227258307064915], [""unknown"", 0.3519542568666003], [""approve"", -1.1829424075953092], [""localhost"", -1.285168319099073]]"
