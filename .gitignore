@@ -1,0 +1,6 @@
+imu_data/
+6ix/
+
+# Local environment and editor files
+.env
+.DS_Store
