@@ -1,0 +1,4 @@
+name: 6ix Jaw Gestures
+icon: 🦷
+description: Dual-IMU jaw gesture inference running locally on Arduino UNO Q
+bricks: []

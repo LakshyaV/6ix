@@ -1,0 +1,11 @@
+COPY THESE TWO TRAINED FILES INTO THIS FOLDER:
+
+1. wake_model.joblib
+2. command_model.joblib
+
+Expected final paths:
+python/models/wake_model.joblib
+python/models/command_model.joblib
+
+On your Mac they should currently be under:
+artifacts/jaw_gesture/session_real_002/

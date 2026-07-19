@@ -1,0 +1,17 @@
+TRANSFER CHECKLIST
+==================
+
+[ ] app.yaml
+[ ] python/main.py
+[ ] python/jaw_gesture_ml.py
+[ ] python/requirements.txt
+[ ] sketch/sketch.ino
+[ ] sketch/sketch.yaml
+[ ] python/models/wake_model.joblib        <-- copy from Mac
+[ ] python/models/command_model.joblib     <-- copy from Mac
+
+Confirmed sensor mapping in this package:
+- Jaw: external LSM6DSOX, I2C 0x6A
+- Reference: UNO Q built-in IMU
+
+Wake-label inversion is ON by default.

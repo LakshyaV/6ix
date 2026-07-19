@@ -1,0 +1,7 @@
+profiles:
+  default:
+    platforms:
+      - platform: arduino:zephyr
+    libraries:
+      - Arduino_LSM6DSOX (1.1.2)
+default_profile: default
